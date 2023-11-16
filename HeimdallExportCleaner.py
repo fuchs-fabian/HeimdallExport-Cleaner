@@ -62,9 +62,6 @@ def export_df_to_json(df_filtered, tag=None):
         json.dump(json.loads(df_filtered.to_json(orient='records')), json_file, indent=4)
         print('\"' + filename + '.json' + '\"' + ' created or customized!')
 
-def generate_tag(tag):
-    return separators_for_tag_name[0] + tag + separators_for_tag_name[1]
-
 export_df_to_json(df_raw)
 
 if tags is not None:
