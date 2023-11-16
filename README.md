@@ -21,6 +21,8 @@ When doing a Heimdall export, the json file is not very well suited for uploadin
 
 ## Run
 
+> This Python script must be executed in the same folder in which the Heimdall export is located!
+
 In order for the Python script to run correctly under **Linux**, the [Pandas library must be installed](https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi) beforehand:
 
 ```Shell
