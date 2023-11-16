@@ -1,0 +1,11 @@
+{
+  "heimdall_export_name": "HeimdallExport",
+  "case_insensitive_sort": true,
+  "tags": null,
+  "no_tag": null,
+  "separators_for_tag_name": null,
+  "clean_colour": false,
+  "clean_description": false,
+  "clean_appid": false,
+  "clean_appdescription": false
+}
