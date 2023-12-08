@@ -4,7 +4,7 @@ If you want to install Heimdall: https://github.com/linuxserver/Heimdall/
 
 ---
 
-Nice and pastel-colored Heimdall theme with dark and light mode: [Heimdall-Catppuccin-Theme](https://github.com/fuchs-fabian/Heimdall-Catppuccin-Theme)
+Nice and pastel-colored Heimdall theme with dark and light mode: [Heimdall-Catppuccin-Theme](https://github.com/fuchs-fabian/Heimdall-Catppuccin-Theme-Dark-Light-Mode)
 
 ---
 
